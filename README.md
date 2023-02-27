@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I spend time with my dog and my family  and also coding and coding.
 
-- :mailbox:How to reach me: [![Linkedin Badge] (https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-c-031b8924b/)
+- :mailbox:How to reach me: [![Linkedin Badge][(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/antonios-c-031b8924b/)]
 
 
 
