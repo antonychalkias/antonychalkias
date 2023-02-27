@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yannis-amanatidis-b2b4221b4/">
+  <a href="https://www.linkedin.com/in/antonios-c-031b8924b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
 </div>
 
 <div id="count" align="center">
-<img src="https://komarev.com/ghpvc/?username=YannisAm&style=flat-square&color=blue" alt=""/>
+<img src="https://www.linkedin.com/in/antonios-c-031b8924b/" alt=""/>
 </div>
 
 <div id="hey" align="center">
@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I spend time with my dog and my family  and also coding and coding.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-c-031b8924b/)
+- :mailbox:How to reach me: [![Linkedin Badge] (https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-c-031b8924b/)
 
 
 
