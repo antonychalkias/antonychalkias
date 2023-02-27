@@ -18,7 +18,7 @@
 
 ## :man_technologist: About Me :
 
-#### I am a Junior .Net Developer :desktop_computer: from Greece.
+#### I am a Junior Front End Developer :desktop_computer: from Greece.
 
 - :telescope: Currently, I am attending a  coding bootcamp to further my programming skills.
 
