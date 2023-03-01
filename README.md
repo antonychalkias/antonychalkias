@@ -19,8 +19,9 @@
 ## :man_technologist: About Me :
 
 #### I am a Junior Front End Developer :desktop_computer: from Greece.
-
-- :telescope: Currently, I am attending a  coding bootcamp to further my programming skills.
+- :bookmark_tabs: I have finished  a  coding bootcamp to further my programming skills.
+- 
+- :telescope: Currently, I am running META's Front End Developer Bootcamp to upgrade my React Skills/UI UX Design Patterns and so much more
 
 - :seedling: Furthermore, I am learning about React through my Udemy - Meta."
 
