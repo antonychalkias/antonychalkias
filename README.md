@@ -21,9 +21,9 @@
 #### I am a Junior Front End Developer :desktop_computer: from Greece.
 - :bookmark_tabs: I have finished  a  coding bootcamp to further my programming skills.
 
-- :telescope: Currently, I am running META's Front End Developer Bootcamp to upgrade my React Skills/UI UX Design Patterns and so much more
+- :telescope: Currently, I am Looking into completing my MSc in Web And Smart Systems.
 
-- :seedling: Furthermore, I am learning about React through my Udemy - Meta."
+- :seedling: Furthermore, I have learned about React.js and Next.js from Meta / Udemy Courses.
 
 - :zap: In my free time, I spend time with my dog and my family  and also coding and coding.
 
